@@ -50,16 +50,21 @@ Debido a la configuración indicada en el osciloscopio proporcionado por DCAClab
 Para ambos casos medidos con el osciloscopio la perrilla VOLTS/DIV se encuentra ubicada en 3V como se ve en la imagen
 ![image](https://user-images.githubusercontent.com/94079321/155057682-f56f5dd7-00bc-4a13-bf94-5b4d94cd5912.png)
 
-
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-¿En qué valor está posicionada la perilla TIME/DIV?
+
+¿En qué valor está posicionada la perilla TIME/DIV? 
+
+
+
+TIME/DIV= 0.1 ms 
 
 4. ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
-Amplitud de voltaje:
-Periodo:
+Amplitud de voltaje:  6.88V
+
+Periodo: 0.4ms = 0.0004 s
 
 5. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
