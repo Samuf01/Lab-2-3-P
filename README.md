@@ -86,7 +86,6 @@ V= 4.644V
 
 Compare el voltaje medido en el punto 4 y el obtenido en el punto 6. ¿Coinciden?, ¿Por qué?.
 
-![image](https://user-images.githubusercontent.com/94079321/155175980-ed2bae23-f040-4472-8998-9024bb06e56e.png)
 
 
 ![image](https://user-images.githubusercontent.com/94079321/155176014-7b6fff38-64aa-44f7-8230-4d5001c3df86.png)
