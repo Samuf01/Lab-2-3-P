@@ -2,7 +2,7 @@
 
 1. Objetivos
 
-1.1. Objetivo General
+1.1. Objetivo Gener
 
 1.2. Objetivo Especifico
 
@@ -52,10 +52,13 @@ Para ambos casos medidos con el osciloscopio la perrilla VOLTS/DIV se encuentra 
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
+![image](https://user-images.githubusercontent.com/94079321/155146337-66314dc1-619a-410e-ac9d-5542c13ce54a.png)
 
-¿En qué valor está posicionada la perilla TIME/DIV? 
+Cuenta con 4 divisiones. 
 
+¿En qué valor está posicionada la perilla TIME/DIV?
 
+![image](https://user-images.githubusercontent.com/94079321/155146662-9b0c3153-6dca-4137-9478-d35a43bd167e.png)
 
 TIME/DIV= 0.1 ms 
 
