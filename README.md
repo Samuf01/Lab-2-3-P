@@ -47,6 +47,10 @@ Debido a la configuración indicada en el osciloscopio proporcionado por DCAClab
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
+Para ambos casos medidos con el osciloscopio la perrilla VOLTS/DIV se encuentra ubicada en 3V como se ve en la imagen
+![image](https://user-images.githubusercontent.com/94079321/155057682-f56f5dd7-00bc-4a13-bf94-5b4d94cd5912.png)
+
+
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 ¿En qué valor está posicionada la perilla TIME/DIV?
