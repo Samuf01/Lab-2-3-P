@@ -78,6 +78,8 @@ f:
 
 ![image](https://user-images.githubusercontent.com/94079321/155147726-c3b4168e-ab87-4c09-a904-8f2437bfb3ed.png)
 
+V= 4.644V
+
 Compare el voltaje medido en el punto 4 y el obtenido en el punto 6. ¿Coinciden?, ¿Por qué?.
 
 
