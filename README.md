@@ -2,7 +2,7 @@
 
 1. Objetivos
 
-1.1. Objetivo Gener
+1.1. Objetivo General
 
 Estudiar de manera experimental las características de la onda sinusoidal y a su vez su aplicación en los circuitos de los simuladores.
 
@@ -10,7 +10,7 @@ Estudiar de manera experimental las características de la onda sinusoidal y a s
 
 - Utilizar DCAC lab y Multisim cómo entornos de desarrollo de circuitos y a su vez el estudio y comprobación de onda sinusoidales en circuitos electrónicos.
 
--Definir la lectura de una onda sinusoidal y también la frecuencia y el periodo con el que estas se pueden llegar a repetir a través del osciloscopio.
+- Definir la lectura de una onda sinusoidal y también la frecuencia y el periodo con el que estas se pueden llegar a repetir a través del osciloscopio.
 
 2. Información general
 
