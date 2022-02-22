@@ -46,9 +46,9 @@ La señal que aparece en el osciloscopio en la carga del resistor Rl es inferior
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-Debido a la configuración indicada en el osciloscopio proporcionado por DCAClab, nos indica que cada cuadro abarca 3V, teniendo como amplitud pico 9.98 V, es decir que ocupa tres cuadros y una pequeña fracion extra de un cuarto cuadro.
+Debido a la configuración indicada en el osciloscopio proporcionado por DCAClab, nos indica que cada cuadro abarca 3V, teniendo como amplitud pico 6.88 V, es decir que ocupa dos cuadros y una pequeña fracion extra de un tercer cuadro.
 
-![image](https://user-images.githubusercontent.com/94079321/155057332-e49e43c1-1be0-4079-a334-2473c2c1c01a.png)
+![image](https://user-images.githubusercontent.com/94079321/155182082-63a242a1-4852-441f-a25a-a3993f786ace.png)
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
