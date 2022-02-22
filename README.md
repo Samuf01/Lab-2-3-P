@@ -4,8 +4,13 @@
 
 1.1. Objetivo Gener
 
+Estudiar de manera experimental las características de la onda sinusoidal y a su vez su aplicación en los circuitos de los simuladores.
+
 1.2. Objetivo Especifico
 
+- Utilizar DCAC lab y Multisim cómo entornos de desarrollo de circuitos y a su vez el estudio y comprobación de onda sinusoidales en circuitos electrónicos.
+
+-Definir la lectura de una onda sinusoidal y también la frecuencia y el periodo con el que estas se pueden llegar a repetir a través del osciloscopio.
 
 2. Información general
 
@@ -71,8 +76,7 @@ Periodo: 0.4ms = 0.0004 s
 
 5. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
 
-f:
-ω:
+![image](https://user-images.githubusercontent.com/94079321/155174587-8538f19b-dfed-4402-af8d-fd8e600bb449.png)
 
 6. Con el multímetro digital mida el voltaje de salida en RL:
 
@@ -82,12 +86,15 @@ V= 4.644V
 
 Compare el voltaje medido en el punto 4 y el obtenido en el punto 6. ¿Coinciden?, ¿Por qué?.
 
+![image](https://user-images.githubusercontent.com/94079321/155175980-ed2bae23-f040-4472-8998-9024bb06e56e.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/94079321/155176014-7b6fff38-64aa-44f7-8230-4d5001c3df86.png)
 
 5. Conclusiones
+
+- Mediante la presente experimentación podemos determinar valores como frecuencia periodo voltajes pico pico y también voltajes rms
+
+- Gracias a nuestra herramienta osciloscopio podemos determinar los valores a encontrar ya que es una herramienta fácil de manipular además de que muestra datos exactos si es que es bien manipulado mediante las perillas del simulador
 
 6. Biblíografia
 
