@@ -76,6 +76,8 @@ f:
 
 6. Con el multímetro digital mida el voltaje de salida en RL:
 
+![image](https://user-images.githubusercontent.com/94079321/155147726-c3b4168e-ab87-4c09-a904-8f2437bfb3ed.png)
+
 Compare el voltaje medido en el punto 4 y el obtenido en el punto 6. ¿Coinciden?, ¿Por qué?.
 
 
@@ -88,4 +90,3 @@ Compare el voltaje medido en el punto 4 y el obtenido en el punto 6. ¿Coinciden
 6. Biblíografia
 
 - Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
-- 
